@@ -1,4 +1,4 @@
-package com.anangkur.androidstudioplayground
+package com.example.mylogin_chapter2
 
 import org.junit.Test
 

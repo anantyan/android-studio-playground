@@ -13,5 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Android Studio Playground"
+rootProject.name = "My Login - Chapter 2"
 include(":app")
+ 

@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    namespace = "com.anangkur.androidstudioplayground"
+    namespace = "com.example.mylogin_chapter2"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.anangkur.androidstudioplayground"
-        minSdk = 21
+        applicationId = "com.example.mylogin_chapter2"
+        minSdk = 24
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
